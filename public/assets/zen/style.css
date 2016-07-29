@@ -1,0 +1,29 @@
+#excel-form div.fileinput.fileinput-exists{
+	margin-right:85px!important; 
+}
+#excel-form div.fileinput.fileinput-new{
+	margin-right: -13px!important; 
+}
+
+.rdv-status-blue div.iradio_minimal-grey{
+    display: inline-block;
+    *display: inline;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    width: 18px;
+    height: 18px;
+    background: url(blue.png) no-repeat;
+    border: none;
+    cursor: pointer;
+}
+
+.rdv-attente td{
+    background: #F5F8FD!important;
+}
+.rdv-valide td{
+    background: #C9F0F3!important;
+}
+.rdv-annule td{
+    background: #FEF7F8!important;
+}
